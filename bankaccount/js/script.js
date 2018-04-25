@@ -121,4 +121,5 @@ window.addEventListener("load", function () {
    
 });
 
+
 //https://lazamar.github.io/closures-private-variables-and-methods-in-javascript/
